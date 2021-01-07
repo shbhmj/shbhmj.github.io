@@ -42,6 +42,9 @@ hr {
   opacity:1;
 }
 
+h1,p{
+  text-align:center;
+}
 /* Add a blue text color to links */
 a {
   color: dodgerblue;
