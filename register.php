@@ -1,6 +1,6 @@
 <?php
-session_start();
-
+//session_start();
+echo $_POST;
 // initializing variables
 $username = "";
 $email    = "";
